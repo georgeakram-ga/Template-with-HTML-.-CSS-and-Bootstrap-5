@@ -1,0 +1,236 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header {
+    background-image: url(https://img.freepik.com/free-photo/photo-portrait-pretty-girl-touching-face-neck-sensual-dreamy-isolated-neon-pink_231208-13307.jpg?w=740&t=st=1676158608~exp=1676159208~hmac=c26331983fb372f6fe1ce1908b67dfeba2da35ac67005deb5bcca509c4b08804);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+}
+header {
+    padding: 30px;
+}
+header a {
+    text-align: center;
+}
+header svg {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+header h1 {
+    font-family: 'Playfair Display', serif !important;
+    margin-top: 15%;
+    color: white;
+    font-size: 70px;
+}
+header span {
+    font-size: 180px;
+}
+.content {
+    background-image: url(https://images03.nicepage.com/c461c07a441a5d220e8feb1a/1bdbfb5c27395a08b698c60b/Untitled1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+.content h2 {
+    font-family: 'Playfair Display', serif !important;
+    color: white;
+    font-size: 70px;
+    margin-top: 20%;
+    margin-bottom: 10%;
+}
+.a-link-1 {
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+}
+.a-link-1:hover {
+    color: brown;
+}
+.border-div {
+    border: solid 10px;
+    color: white;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.offcanvas {
+    background-color: aqua;
+}
+.btn-close-1:focus {
+    box-shadow: none;
+}
+.btn-close-1 svg {
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+}
+.offcanvas-title {
+    font-family: 'Playfair Display', serif !important;
+    color: rgb(9, 25, 253);
+    font-size: 35px;
+}
+.offcanvas-body a {
+    color: rgb(3, 112, 255);
+    font-size: 30px;
+    text-decoration: none;
+}
+.offcanvas-body svg {
+    color: rgb(3, 112, 255);
+}
+.Awesome-Skilled-Stylists {
+    background-image: url(https://j.top4top.io/p_2599oa7281.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.backgrund-div {
+    background-color: #fd5b8e;
+}
+.backgrund-div {
+    background: none;
+}
+.backgrund-div a {
+    color: white;
+}
+.backgrund-div-2 {
+    background: none;
+}
+.backgrund-div-2 h1 {
+    color: white;
+    font-family: 'Playfair Display', serif !important;
+    text-align: center;
+    margin-top: 20%;
+    font-size: 50px;
+}
+.backgrund-div-2 svg {
+    font-size: 50px;
+    margin-top: 20px;
+    color: white;
+    margin-bottom: 50px;
+}
+.backgrund-div-2 svg:hover {
+    color: black;
+}
+.background-color-solid {
+    background-image: url(https://www.reblozyl.com/assets/commercial/us/reblozyldtc/en/images/bt-images/bt-faq-banner-mobile.png);
+    background-repeat: no-repeat;
+    background-size: 330px;
+    background-position: center;
+}
+.cosmetics {
+    background-image: url(https://g.top4top.io/p_259951r0j1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.backgrund-div-3 {
+    background-color: #ebd618;
+}
+.backgrund-div-3 {
+    background: none;
+}
+.backgrund-div-4 h1 {
+    color: rgb(0, 0, 0);
+    font-family: 'Playfair Display', serif !important;
+    margin-top: 40px;
+    font-size: 50px;
+}
+.backgrund-div-4 h5 {
+    background-color: #fd5b8e;
+    color: white;
+    padding-top: 11px;
+    padding-bottom: 11px;
+}
+.girls {
+    background-color: #fd5b8e;
+}
+.girls h1 {
+    color: white;
+    font-family: 'Playfair Display', serif !important;
+    text-align: center;
+    font-size: 200px;
+    font-weight: 700;
+}
+.text-1 {
+    color: white;
+    font-family: 'Playfair Display', serif !important;
+}
+.text-2 {
+    color: white;
+}
+.img {
+    width: 330px;
+}
+.form-label {
+    text-align: left;
+    color: #fd5b8e;
+    font-size: 25px;
+}
+.form-control:focus {
+    box-shadow: none;
+}
+.form-control {
+    background-color: #ecd608;
+}
+footer {
+    background-color: #fd5b8e;
+}
+footer a {
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+footer a:hover {
+    color: #ecd608;
+}
+@media (max-width:566px){
+    .cosmetics {
+        background: none;
+    }
+        }
+@media (max-width:566px){
+    .backgrund-div-3 {
+        background-image: url(https://j.top4top.io/p_2599i31e31.jpg);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+        }
+@media (max-width:566px){
+    .backgrund-div-4 {
+    background-color: #ebd618;
+    }
+}
+@media (max-width:566px){
+.backgrund-div {
+    background-color: #fd5b8e;
+}
+    }
+@media (max-width:566px){
+.backgrund-div-2 {
+    background-image: url(https://images.pexels.com/photos/289590/pexels-photo-289590.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+    }
+@media (max-width:566px){
+.Awesome-Skilled-Stylists {
+    background: none;
+}
+    }
+@media (max-width:1108px){
+header span {
+    font-size: 80px;
+}
+    }
+@media (max-width:1108px){
+.girls h1 {
+    font-size: 80px;
+}
+    }
